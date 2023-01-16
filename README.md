@@ -33,7 +33,7 @@ Lebih banyak penumpang netral atau tidak puas terhadap pelayanan sehingga maskap
 
 ![image](Image/Picture2.png)
 
-**Insight**
+**Recommendation**
 
 Segmentasi umur tersebut akan memberikan tanda bahwa maskapai perlu melakukan pendekatan atau perbaikan layanan yang lebih cocok untuk rentang umur 20-40 tahun.
 

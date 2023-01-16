@@ -37,7 +37,6 @@ Lebih banyak penumpang netral atau tidak puas terhadap pelayanan sehingga maskap
 
 Segmentasi umur tersebut akan memberikan tanda bahwa maskapai perlu melakukan pendekatan atau perbaikan layanan yang lebih cocok untuk rentang umur 20-40 tahun.
 
-
 **2. Faktor apa yang paling berpengaruh terhadap kepuasan dan ketidakpuasan penumpang secara keseluruhan?**
 
 ![image](Image/Picture3.png)
@@ -65,7 +64,6 @@ Maskapai perlu lebih memerhatikan 3 faktor dengan penilaian pelayan terburuk unt
 
 Note : Dalam kondisi real, untuk menentukan faktor mana yang sebaiknya ditingkatkan juga bergantung oleh cost yang dibutuhkan, misal saat menyediakan shuttle bus mungkin membutuhkan cost yang lebih banyak dibandingkan meningkatkan kualitas wifi saat penerbangan. Hal tersebut yang perlu menjadi pertimbangan maskapai untuk menentukan faktor mana yang perlu diprioritaskan dan memberikan dampak peningkatan yang signifikan.
 
-
 **3. Kelas penumpang apa yang paling banyak merasa tidak puas (selain satisfied)?**
 
 ![image](Image/Picture6.png)
@@ -76,7 +74,6 @@ Kelas penumpang eco merupakan kelas yang paling banyak merasa tidak puas yaitu s
 **Recommendation**
 
 Dari tabel dan visualisasi didapatkan informasi berupa segmentasi kelas pesawat yang perlu diprioritaskan untuk peningkatan adalah kelas eco, karena pengguna kelas eco adalah pengguna terbanyak setelah kelas bisnis dan penumpang paling banyak merasa netral atau tidak puas, agar dampak yang diberikan bisa berpeluang lebih banyak untuk memperbaiki kepuasan pelanggan.
-
 
 **4. Bagaimana hubungan tipe penumpang dengan tingkat kepuasan penumpang? **
 
